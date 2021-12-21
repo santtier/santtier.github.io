@@ -634,6 +634,7 @@ img {
 
 .portfolio__img {
   width: 265px;
+  min-height: 256px;
   border-radius: 0.5rem;
   justify-self: center;
 }
